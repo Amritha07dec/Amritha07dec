@@ -1,4 +1,5 @@
 # Hi there, I'm Amritha! 👋
+![Cute Robot](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif)
 
 ## About Me
 I'm a student passionate about data science, machine learning, and coding. I enjoy turning complex problems into simple, elegant solutions.
@@ -23,11 +24,6 @@ I'm a student passionate about data science, machine learning, and coding. I enj
 
 ## Connect with me
 [LinkedIn](https://linkedin.com/in/amritha-p-s-28b906254)
-
----
-
-### GitHub Stats
-![Amritha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amritha07dec&show_icons=true&theme=radical)
 
 ---
 
