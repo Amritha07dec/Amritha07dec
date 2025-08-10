@@ -1,6 +1,5 @@
 # Hi there, I'm Amritha! 👋
 
-![Robot](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5zbHd5OWt1bWQ0aXduZ2F3eXgzYmk3dXJ1bG80ZHVyeXZyd2hmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WfkArm7fRCVnOygaeA/giphy.gif)
 
 ## About Me
 Student passionate about data science, machine learning, and clean code. I enjoy turning complex problems into elegant solutions.
