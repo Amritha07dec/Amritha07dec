@@ -4,9 +4,9 @@
 I'm a student passionate about data science, machine learning, and coding. I enjoy turning complex problems into simple, elegant solutions.
 
 ## Profile
-- 📍 Location: India  
+- 📍 Location: Thiruvananthapuram, India  
 - 💼 Role: Student  
-- 🎓 Education: [Your University Name] (Optional)  
+- 🎓 Education: University of Kerala  
 - 🖥️ Editor: VS Code  
 - ⚡ Fun fact: I love automation and building small tools to make life easier.
 
