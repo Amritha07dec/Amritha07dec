@@ -1,29 +1,30 @@
 # Hi there, I'm Amritha! 👋
-![Cute Robot](https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif)
 
+![Robot](https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif)
 
 ## About Me
-I'm a student passionate about data science, machine learning, and coding. I enjoy turning complex problems into simple, elegant solutions.
+Student passionate about data science, machine learning, and clean code. I enjoy turning complex problems into elegant solutions.
 
 ## Profile
-- 📍 Location: Thiruvananthapuram, India  
-- 💼 Role: Student  
-- 🎓 Education: University of Kerala  
-- 🖥️ Editor: VS Code  
-- ⚡ Fun fact: I love automation and building small tools to make life easier.
+- 📍 Thiruvananthapuram, India  
+- 💼 Student at University of Kerala  
+- 🖥️ VS Code user  
+- ⚡ Automation enthusiast — I build small tools to simplify life.
 
 ## Skills & Tools
-- Python 🐍 | Pandas | NumPy | Scikit-learn  
-- Deep Learning: PyTorch, TensorFlow  
-- Data Visualization: Matplotlib, Seaborn  
-- Git & GitHub  
+Python 🐍 | Pandas | NumPy | Scikit-learn | PyTorch | TensorFlow | Matplotlib | Seaborn | Git
 
 ## Current Projects
 - Resume Screening System (NLP + BERT)  
 - Time-Series Classification with Neural Networks  
 - Sentiment Analysis Driven Product Recommendation System  
 
-## Connect with me
+## Currently Learning
+- Advanced deep learning techniques  
+- Attention mechanisms for time series  
+- GitHub Actions and automation workflows
+
+## Connect
 [LinkedIn](https://linkedin.com/in/amritha-p-s-28b906254)
 
 ---
@@ -34,3 +35,12 @@ I'm a student passionate about data science, machine learning, and coding. I enj
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amritha07dec&theme=radical)
 
+---
+
+### Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-F05032?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
