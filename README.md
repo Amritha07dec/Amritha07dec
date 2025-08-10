@@ -28,3 +28,12 @@ I'm a student passionate about data science, machine learning, and coding. I enj
 
 ### GitHub Stats
 ![Amritha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amritha07dec&show_icons=true&theme=radical)
+
+---
+
+### GitHub Stats & Activity
+
+![Amritha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amritha07dec&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amritha07dec&theme=radical)
+
