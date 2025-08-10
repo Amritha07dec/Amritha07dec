@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Amritha! 👋
 
-<!--
-**Amritha07dec/Amritha07dec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a student passionate about data science, machine learning, and coding. I enjoy turning complex problems into simple, elegant solutions.
 
-Here are some ideas to get you started:
+## Skills & Tools
+- Python 🐍 | Pandas | NumPy | Scikit-learn
+- Deep Learning: PyTorch, TensorFlow
+- Data Visualization: Matplotlib, Seaborn
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- Resume Screening System (NLP + BERT)
+- Time-Series Classification with Neural Networks
+- Sentiment Analysis Driven Product Recommendation System
+
+## Fun Facts
+- I love automation and building small tools to make life easier.
+- When not coding, I’m probably binge-watching sci-fi or diving into AI articles.
+
+## Connect with me
+[LinkedIn](https://linkedin.com/in/amritha-p-s-28b906254)
+
+---
+
+### GitHub Stats
+![Amritha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amritha07dec&show_icons=true&theme=radical)
