@@ -7,8 +7,7 @@ Student passionate about data science, machine learning, and clean code. I enjoy
 ## Profile
 - 📍 Thiruvananthapuram, India  
 - 💼 Student at University of Kerala  
-- 🖥️ VS Code user  
-- ⚡ Automation enthusiast — I build small tools to simplify life.
+
 
 ## Skills & Tools
 Python 🐍 | Pandas | NumPy | Scikit-learn | PyTorch | TensorFlow | Matplotlib | Seaborn | Git
